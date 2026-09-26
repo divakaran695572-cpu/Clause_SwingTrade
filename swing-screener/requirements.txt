@@ -1,5 +1,0 @@
-fastapi>=0.110
-uvicorn[standard]>=0.29
-apscheduler>=3.10,<4
-anthropic>=0.60
-tzdata
